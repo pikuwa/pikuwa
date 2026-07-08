@@ -6,9 +6,12 @@
 
 Currently building Python projects and improving problem-solving skills.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pikuwa&show_icons=true&theme=github_dark)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pikuwa&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pikuwa&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikuwa&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 ### 🛠 Tech Stack
 
@@ -20,11 +23,12 @@ Currently building Python projects and improving problem-solving skills.
 • Git & GitHub
 • Excel
 
-🎯 Current Goals
+## 🎯 Current Goals
 
-• Build production-ready Python projects
-• Learn Flask & Backend Development
-• Strengthen Data Analytics skills
-• Contribute to Open Source
+- 💻 Strengthen Python programming skills
+- 📂 Build practical and real-world projects
+- 📊 Learn Data Analytics and SQL
+- 🌱 Continuously improve through hands-on practice
+- 🚀 Prepare for Software Development roles
 
 
