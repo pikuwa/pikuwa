@@ -1,17 +1,30 @@
 # Hy, I'm Pratik 👋
 
-🎓 B-Tech|CSE Student
-💻 Interested in Software Development & Data Analytics
-📊 Learning Excel, SQL, Python and Git/GitHub
-🚀 Building projects and improving problem-solving skills
+🎓 B.Tech (CSE) Graduate
+💻 Python Developer
+📊 Data Analytics Enthusiast
 
-## Skills
-- Excel
-- SQL
-- Python
-- Git & GitHub
-- Data Visualization
+Currently building Python projects and improving problem-solving skills.
 
-## Goals
-- Contribute to Open Source
-- Build Real-World Projects
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pikuwa&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pikuwa&layout=compact&theme=github_dark)
+
+### 🛠 Tech Stack
+
+• Python
+• SQL
+• Pandas
+• Tkinter
+• REST APIs
+• Git & GitHub
+• Excel
+
+🎯 Current Goals
+
+• Build production-ready Python projects
+• Learn Flask & Backend Development
+• Strengthen Data Analytics skills
+• Contribute to Open Source
+
+
