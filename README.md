@@ -22,7 +22,7 @@
 Automation · REST APIs · AI Tools · Data Analytics · Data Visualization
 
 **🌱 Currently Learning**
-Flask · Docker · SQL · Power BI · AI Agents
+SQL · Power BI · AI Agents · AI Tools 
 
 ---
 
@@ -42,7 +42,6 @@ Flask · Docker · SQL · Power BI · AI Agents
 
 **Backend**
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Database**
@@ -70,7 +69,7 @@ Track daily habits with beautiful graphs.
 ✔ Nutritionix API · ✔ Sheety API · ✔ Python
 Natural language workout logger.
 
-### 📌 [Vocabulary Flash Card App](https://github.com/pikuwa/vocabulary-flashcard-app)
+### 📌 [Vocabulary Flash Card App](https://github.com/pikuwa/Vocabulary-Flash-Card-App)
 ✔ Tkinter · ✔ Pandas · ✔ CSV Database
 Interactive vocabulary learning application.
 
