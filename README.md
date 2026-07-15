@@ -80,23 +80,9 @@ Interactive vocabulary learning application.
 ## 📈 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pikuwa&show_icons=true&theme=tokyonight"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pikuwa&show_icons=true&theme=tokyonight"/> -->
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pikuwa&theme=tokyonight"/>
 </p>
-
-## 📊 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikuwa&layout=compact&theme=tokyonight"/>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pikuwa&theme=algolia&column=4&margin-w=15"/>
-</p>
-
----
 
 ## 🌐 Connect with Me
 
